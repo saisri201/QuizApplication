@@ -31,7 +31,7 @@ Now , you can start a Tomcat server : start
 And then open http://localhost:8081 to view it in the browser.
 
 ## Credits
- Quiz Application is built and maintained by [ Sai Sri ](https://saisri201.github.io).
+ Quiz Application is built and maintained by [ Sai Sri ](https://github.com/saisri201).
 
 
 
