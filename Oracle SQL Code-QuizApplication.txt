@@ -1,0 +1,5 @@
+Create table users
+(
+username varchar2(100),
+password varchar2(50)
+);
