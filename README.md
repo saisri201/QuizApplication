@@ -19,6 +19,21 @@
 -[Tomcat Server](https://tomcat.apache.org/download-10.cgi)
 
 ## Development
+To get a local copy of the code, clone it using Git:
+
+git clone https://github.com/saisri201/QuizApplication.git
+
+
+## Install dependencies:
+
+Now , you can start a Tomcat server : start
+
+And then open http://localhost:8081 to view it in the browser.
+
+## Credits
+ Quiz Application is built and maintained by [ Sai Sri ](https://saisri201.github.io).
+
+
 
 
 
